@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       <style>
+           body {
+               background-color: rgb(156, 224, 217);
+           }
+           p {
+               color: rgb(189, 30, 189);
+           }
+       </style>
+        <h1>Joe Biben's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#cookies">Recipe #1</a></li>
+            <li><a href="#spaghetti">Recipe #2</a></li>
+            <li><a href="#pancakes">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="cookies">Recipe #1 : Cookies</h2>
+        
+        <ul>
+            <li>Time: 35 minutes</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <tr>
+            <td>milk, chocolate chips, vanilla, sugar, brown sugar, eggs, butter, flour, salt, and baking soda</td> <br>
+            <td>2 tablespoons, 2 cups, 1 teaspoon, 1 cup, 1/3 cup, 2, 1/2 cup, 2 1/4 cups, 1/2 teaspoon, 1 teaspoon </td>
+        </tr>
+        
+        <p><strong>Step 1:</strong> preheat oven to 350 farenheit.<br>
+        <strong>Step 2:</strong> mix vanilla, sugar, brown sugar, eggs and butter to a bowl and mix.<br>
+        <strong>Step 3:</strong> whisk flour, salt, and baking soda in a seperate bowl.<br>
+        <strong>Step 4:</strong> mix dty and wet bowl and mix until moderatly combined.<br>
+        <strong>Step 5:</strong> line a pan with wax paper.<br>
+        <strong>Step 6:</strong> roll dough into balls.<br>
+        <strong>Step 7:</strong> place balls evenly throughout pan.<br>
+        <strong>Step 8:</strong> flatten dough balls with a fork.<br>
+        <strong>Step 9:</strong> bake for 8-10 minutes.<br>
+        <strong>Step 10:</strong> remove cookies, let them cool for about 15 minutes, and enjoy!<br>
+</p>
+        
+    <p>
+    <h2 id="spaghetti">Recipe #2 : Spaghetti</h2>
+        
+        <ul>
+            <li>Time: 10-15 minutes</li>
+            <li>Serves: 2-3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients
+                    </th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+            <td>water, preferred noodle, kosher salt, (sauce of choice)</td> <br>
+            <td>2/3 of pot filled, 8-16 ounces, 1-2 tablespoons, amount may vary </td>
+        </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <tr>
+            <td></td> <br>
+            <td></td>
+        </tr>
+        
+        <p><strong>Step 1:</strong> find a 5-6 quart pot and fill up to 3/4.<br>
+       <strong>Step 2:</strong> stir 1-2 tablespoons of kosher salt to the water and begin boiling.<br>
+       <strong>Step 3:</strong> add pasta to boiling water.<br>
+       <strong>Step 4:</strong> boil for 8-11 minutes and stir frequently.<br>
+       <strong>Step 5:</strong> test the noodle texture (if not to preference, continue boiling).<br>
+       <strong>Step 6:</strong> drain noodles using collinder.<br>
+       <strong>Step 7:</strong> top with prefered sauce and enjoy.<br>
+</p>
+         <p>
+    <h2 id="pancakes">Recipe #3 : Pancakes</h2>
+        
+        <ul>
+            <li>Time: 6-7 minutes</li>
+            <li>Serves: 3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients
+                    </th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+            <td>eggs, butter, milk, all-purpose flour, baking soda, sugar, salt</td> <br>
+        <td>2-3, 2 tablespoons, 1 1/2 cups, 2 cups, 1/2 teaspoon, 5 tablespoons, just a pinch</td>
+        </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <tr>
+            <td></td> <br>
+            <td></td>
+        </tr>
+        
+        <p><strong>Step 1:</strong> crack 2-3 eggs into a bowl and beat until creamy.<br>
+       <strong>Step 2:</strong> microwave 2 tablespoon of butter in a microwave safe bowl.<br>
+       <strong>Step 3:</strong> whisk together 2 cups of all-purpose flour, 1/2 teaspoon of baking soda, 5 tablespoons sugar, and a pinch of salt.<br>
+       <strong>Step 4:</strong> add the butter and 1 1/2 cups of milk to the mix.<br>
+       <strong>Step 5:</strong> heat a pan to a medium-low flame.<br>
+       <strong>Step 6:</strong> test heat with a drizzle of water (water should begin bubbling).<br>
+       <strong>Step 7:</strong> add 1/4 cup of the batter to the pan.<br>
+       <strong>Step 8:</strong> flip afterabout 2 minutes or until pancake is golden on one side.<br>
+       <strong>Step 9:</strong> cook the other side until golden and remove (if you want a deeper color, flip after 30 more seconds on each side.<br>
+</p>
+    <p><em>Source: <a href="https://www.wikihow.com/Make-Chewy-Chocolate-Chip-Cookies">cookie recipe</a></em></p>
+    <em>Source: <a href="https://www.wikihow.com/Make-Spaghetti">spaghetti</a></em>
+     <p><em>Source: <a href="https://www.wikihow.com/Make-Pancakes">pancakes</a></em></p>
+    </body>
+</html>
